@@ -134,16 +134,25 @@ main h4 {
     padding: 20px;
     border-radius: 6px;
 opacity: 60%;}
+.card h4{ line-height: 50px;}
 .card p {color: #272044;
 text-align:left;
 padding: 5px;}
 .btn{
-    padding:20px;
-
-    border-radius: 50px;
-    opacity: 0px;
-background-color: #272044;
-color: aliceblue;}
+    display: block;
+        color: white;
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 21px;
+        text-align: center;
+        letter-spacing: 3px;
+        text-transform: uppercase;
+        padding: 16px;
+        background-color: #352b5b;
+        text-decoration: none;}
+.card-footer{padding: 0 30px 30px;
+border: none;
+background: none;}
 footer {
     color: white;
     background-image: linear-gradient(rgba(0, 0, 0, 0.9),
