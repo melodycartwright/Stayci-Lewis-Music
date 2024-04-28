@@ -16,7 +16,7 @@ padding: 10px;}
 .grid-3-columns-first-narrow{grid-template-columns: 1fr 2fr 2fr;}
 .text-center{text-align: center;}
 header {
-    background-image: linear-gradient(rgba(246, 245, 245, 0.4), rgba(0, 0, 0, 1)), url("../images/windowphoto.jpg");
+    background-image: linear-gradient(rgba(246, 245, 245, 0.4), rgba(0, 0, 0, 1)), url("../images/roof.jpg");
     background-repeat: none;
     background-size: cover;
     width: 100%;
@@ -37,7 +37,7 @@ section {
     margin: 0 auto;
     padding: 100px;
 }
-.secondary{background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.8)), url("../images/bed.jpg");
+.secondary{background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.8)), url("../images/blue.jpg");
 background-repeat: no-repeat;
 background-size: cover;}
 
