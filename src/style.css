@@ -213,6 +213,8 @@ footer a {
 @media (max-width: 900px) {
     header {
         padding: 60px 0;
+        background-image: linear-gradient(rgba(246, 245, 245, 0.4), rgba(0, 0, 0, 1)), url("../images/adidas.jpg");
+            background-repeat: none;
     }
 
     header h1 {
@@ -229,4 +231,5 @@ footer a {
     .grid{grid-template-columns: 1fr;
     grid-gap: 32px;}
 section{padding: 30px;}
+.img-responsive{height: 100%;}
 }
